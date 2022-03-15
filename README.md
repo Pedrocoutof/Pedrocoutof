@@ -1,6 +1,10 @@
 ### 👋 Olá! <br>
  Me chamo Pedro, tenho 21 anos e sou graduando em Ciência da Computação pela Universidade Federal de Juiz de Fora.
 
+<!--
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=👋+Olá!;Me+chamo+Pedro+tenho+21+anos+e+sou+graduando+em+Ciência+da+Computação+pela+Universidade+Federal+de+Juiz+de+Fora.)](https://git.io/typing-svg)
+ -->
+
 <!--Informações-->
 ## Informações:
 <p align="center">
